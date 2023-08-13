@@ -1,4 +1,18 @@
 # StudyBud
+Once a user is registered he can make his own room for discussion for a specific topic
+
+Multiple participants can join the room for discussion
+
+Made APIS for rooms information using DRF
+
+All Topics and Recent activities can be seen
+
+Rooms, Profiles are editable
+
+API for All Room List
+![API](https://github.com/sshubham07/StudyBud/assets/51732065/828bff9a-298d-46ef-ab54-5e3c4cc38e91) 
+API for specific Room
+![specific_api](https://github.com/sshubham07/StudyBud/assets/51732065/dff846a2-9685-441b-94de-9c5a75275583)
 HOME PAGE
 ![home](https://github.com/sshubham07/StudyBud/assets/51732065/692aae00-501e-4652-86b0-422b23a7f595) 
 Create Room 
