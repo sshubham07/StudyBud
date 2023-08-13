@@ -1,4 +1,4 @@
-# StudyBud
+# StudyBuddy
 Once a user is registered he can make his own room for discussion for a specific topic
 
 Multiple participants can join the room for discussion
